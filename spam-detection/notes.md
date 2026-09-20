@@ -1,5 +1,3 @@
-Here’s the one-page summary of the discussion:
-
 # Spam Email Classification: Precision, Recall, and F-Score
 
 ## 1. Precision vs. Recall
